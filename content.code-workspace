@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../content"
+		},
+		{
+			"path": "../form_project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "calculator_project"
+	}
+}
